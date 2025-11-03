@@ -54,7 +54,7 @@ python KAFKA_PRODUCER_Jeiya.py
 
 # Step 4: Run the Streamlit Dashboard (Consumer)
 streamlit run STREAMLIT_CONSUMER_Jeiya.py
-
+```
 ---
 
 ### 👩‍💻 Developer Information
